@@ -1,0 +1,20 @@
+{
+    "name": "liaohu/xlogger-php",
+    "description": "log runtime info",
+    "require": {
+        "php": ">5.4"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Liaohu\\XLogger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liaohu",
+            "email": "liaohu_zhu@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
